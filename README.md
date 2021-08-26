@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Sifat Mahmud
 #### Web developer, Designer
-![Web developer, Designer](https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435-9/84745015_2238638009765522_8019740119672029184_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_ohc=GT8Oo8W7MgcAX_Zdq0T&_nc_ht=scontent.fdac116-1.fna&oh=43a9b316d833de4a42ff1ca8785102de&oe=614C3CA3)
+
 
 Hello! I'm Sifat Mahmud, I'm a web developer/designer.I am experienced in Python, custom code, Html, Css, Javascript, Wordpress, Graphics design, Photoshop, illustrator. My objective is to write well designed, testable, efficient code by using best web development practices.I do custom design and development. I also do logo design and others type of custom design.
 

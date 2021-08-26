@@ -6,7 +6,7 @@
 
 Hello! I'm Sifat Mahmud, I'm a web developer/designer.I am experienced in Python, custom code, Html, Css, Javascript, Wordpress, Graphics design, Photoshop, illustrator. My objective is to write well designed, testable, efficient code by using best web development practices.I do custom design and development. I also do logo design and others type of custom design.
 
-Skills:  HTML / CSS / JS / Python / Graphics design
+#### Skills:  HTML / CSS / JS / Python / Graphics design
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning Python, JS, DSA 

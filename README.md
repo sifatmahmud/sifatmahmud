@@ -1,4 +1,4 @@
-![Web developer, Designer](https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435-9/84745015_2238638009765522_8019740119672029184_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_ohc=GT8Oo8W7MgcAX_Zdq0T&_nc_ht=scontent.fdac116-1.fna&oh=43a9b316d833de4a42ff1ca8785102de&oe=614C3CA3)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2F10-things-every-programmer-should-know-26ba37cfcaf4&psig=AOvVaw1X4eIbCWOVLhUhz_I8vg1K&ust=1635095339409000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNikx_yC4fMCFQAAAAAdAAAAABAD
 
 ### Hi there 👋, I'm Sifat Mahmud
 #### Web developer, Designer

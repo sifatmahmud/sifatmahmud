@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2F10-things-every-programmer-should-know-26ba37cfcaf4&psig=AOvVaw1X4eIbCWOVLhUhz_I8vg1K&ust=1635095339409000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNikx_yC4fMCFQAAAAAdAAAAABAD
+https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg
 
 ### Hi there 👋, I'm Sifat Mahmud
 #### Web developer, Designer

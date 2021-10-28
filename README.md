@@ -1,4 +1,4 @@
-https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg
+
 
 ### Hi there 👋, I'm Sifat Mahmud
 #### Web developer, Designer

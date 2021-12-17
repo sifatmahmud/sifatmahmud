@@ -8,12 +8,13 @@ Hello! I'm Sifat Mahmud, I'm a web developer/designer.I am experienced in Python
 
 #### Skills:  HTML / CSS / JS / Python / Graphics design
 
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning Python, DSA, Reactjs, Django 
+- 🔭 I’m currently working on my own project 
+- 🌱 I’m good in Python, Javascript, Reactjs
+- 😇 Currently learning DSA concept and try to be more good in Js and Reactjs
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Tech and Progamming 
 - 📫 How to reach me: codewithsifat@gmail.com 
-- ⚡ Fun fact: Love to explore more 
+- ⚡ Fun fact: Love to learn new things and Love to explore more 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sifatmahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sifat-mahmud-29351420a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.sifat.902819)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SifatMa18960162)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15576195)  

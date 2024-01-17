@@ -23,8 +23,8 @@ Hello! I'm Sifat Mahmud, I'm a web developer/programmer.I am good in Python, Htm
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sifatmahmud&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sifatmahmud)    
+   
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sifatmahmud)  
 
-![Profile views](https://gpvc.arturio.dev/sifatmahmud)  
+

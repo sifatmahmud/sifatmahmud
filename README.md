@@ -6,7 +6,7 @@
 
 Hello! I'm Sifat Mahmud, I'm a web developer/programmer.I am good in Python, Html, Css, Javascript, Reactjs, Graphics design. Now I also on the journey of learning DSA, react js and bootstrap framework. My objective is to write well designed, testable, efficient code by using best practices.I do custom design and development.
 
-#### Skills:  HTML / CSS / JS / Reactjs / Python / Graphics design
+#### Skills not best but moderate:  HTML / CSS / JS / Reactjs / Python / Graphics design
 
 - 🔭 I’m currently working on my own project 
 - 🌱 I’m good in Python, Javascript, Reactjs, Learning C++ and machine learning concepts now.

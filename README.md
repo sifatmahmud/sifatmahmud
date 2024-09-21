@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Sifat Mahmud
 #### I'm an explorer of everything....
-![I'm an explorer of everything....]
 
 Just a learner, also a noob in Competitive programming.
 Now, I am learning different algorithms and trying to solve different types of problems.

@@ -4,7 +4,7 @@
 Just a learner, also a noob in Competitive programming.
 Now, I am learning different algorithms and trying to solve different types of problems.
 
-Skills: C/C++, Basic data structure, and Algorithms
+Skills: C/C++, Basic data structure, and Algorithms, django, react.
 
 - 🔭 I’m currently working on developing myself to be a good problem solver. 
 
